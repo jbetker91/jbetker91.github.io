@@ -2,3 +2,9 @@ body {
   backgroud-color: AliceBlue;
   font-family:"Courier New";
 }
+
+div {
+ width: 500px;
+ 
+ Border: 5px solid blue;
+}
