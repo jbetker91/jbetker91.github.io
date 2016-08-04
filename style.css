@@ -4,7 +4,12 @@ body {
 }
 
 div {
- width: 500px;
+ /*width: 500px;*/
+ width: 50%;
+ 
+ padding: 30px;
  
  Border: 5px solid blue;
+ 
+margin: 25px;
 }
